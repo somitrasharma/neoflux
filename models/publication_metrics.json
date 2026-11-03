@@ -1,0 +1,11 @@
+{
+  "n_total": 140676,
+  "n_train": 112540,
+  "n_test": 28136,
+  "n_positive": 64232,
+  "n_negative": 76444,
+  "ensemble_auroc": 0.7649,
+  "baseline_auroc": 0.5389,
+  "delong_z": 59.179,
+  "delong_p_value": 0.0
+}

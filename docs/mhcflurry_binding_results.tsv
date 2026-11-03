@@ -1,0 +1,5 @@
+variant_class	gene	peptide	best_allele	mhcflurry_ic50_nM	mhcflurry_percent_rank	presentation_score	n_strong_binders_lt500
+SNV	EGFR	VLSSGAFGTV	HLA-A*02:01	25.2	0.25	0.772	71
+fusion (EML4-ALK)	EML4-ALK	TVEPTPGKGPY	HLA-B*15:01	527.8	5.28	0.181	0
+splice (MET ex14)	MET	SQNGSCRQVQY	HLA-B*15:01	58.0	0.58	0.820	8
+nCORF (LINE-1)	L1HS_ORF1	STLNRQKSY	HLA-B*15:01	202.5	2.03	0.333	2

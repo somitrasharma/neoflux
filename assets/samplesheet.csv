@@ -1,0 +1,2 @@
+sample_id,tumor_bam,normal_bam,rna_fastq_r1,rna_fastq_r2,hla_file,ms_mzml,ms_search_results,tumor_purity,tumor_ploidy
+SAMPLE_001,assets/tumor.bam,assets/normal.bam,assets/rna_R1.fastq.gz,assets/rna_R2.fastq.gz,assets/hla_alleles.tsv,,,0.65,2.0

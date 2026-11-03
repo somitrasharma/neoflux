@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="280.765984pt" height="93.67937pt" viewBox="0 0 280.765984 93.67937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T22:50:43.707416</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 93.67937 
+L 280.765984 93.67937 
+L 280.765984 0 
+L 0 0 
+L 0 93.67937 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 9.875906 69.290079 
+C 23.482205 69.290079 26.203465 46.839685 38.449134 46.839685 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #9aa7bd; stroke-width: 1.6; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 9.875906 58.064882 
+C 23.482205 58.064882 26.203465 46.839685 38.449134 46.839685 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #9aa7bd; stroke-width: 1.6; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 9.875906 46.839685 
+C 23.482205 46.839685 26.203465 46.839685 38.449134 46.839685 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #9aa7bd; stroke-width: 1.6; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 9.875906 35.614488 
+C 23.482205 35.614488 26.203465 46.839685 38.449134 46.839685 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #9aa7bd; stroke-width: 1.6; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 9.875906 24.389291 
+C 23.482205 24.389291 26.203465 46.839685 38.449134 46.839685 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #9aa7bd; stroke-width: 1.6; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 38.449134 46.839685 
+C 52.055433 46.839685 54.776693 58.405039 73.145197 58.405039 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #1b3a5c; stroke-width: 2.9; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 38.449134 46.839685 
+C 52.055433 46.839685 54.776693 46.839685 73.145197 46.839685 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #1b3a5c; stroke-width: 2.9; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 38.449134 46.839685 
+C 52.055433 46.839685 54.776693 35.274331 73.145197 35.274331 
+" clip-path="url(#p4b5a5a6af4)" style="fill: none; stroke: #1b3a5c; stroke-width: 2.9; stroke-linejoin: miter; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 38.789291 50.24126 
+C 39.6914 50.24126 40.556681 49.882848 41.194568 49.244962 
+C 41.832455 48.607075 42.190866 47.741793 42.190866 46.839685 
+C 42.190866 45.937577 41.832455 45.072295 41.194568 44.434408 
+C 40.556681 43.796522 39.6914 43.43811 38.789291 43.43811 
+C 37.887183 43.43811 37.021902 43.796522 36.384015 44.434408 
+C 35.746128 45.072295 35.387717 45.937577 35.387717 46.839685 
+C 35.387717 47.741793 35.746128 48.607075 36.384015 49.244962 
+C 37.021902 49.882848 37.887183 50.24126 38.789291 50.24126 
+z
+" clip-path="url(#p4b5a5a6af4)" style="fill: #1b3a5c"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="90.776693" y="42.989522" transform="rotate(-0 90.776693 42.989522)">NEOFLUX</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="91.910551" y="65.194888" transform="rotate(-0 91.910551 65.194888)">S</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="101.538583" y="65.194888" transform="rotate(-0 101.538583 65.194888)">C</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="111.526614" y="65.194888" transform="rotate(-0 111.526614 65.194888)">I</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="118.634646" y="65.194888" transform="rotate(-0 118.634646 65.194888)">E</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="128.262677" y="65.194888" transform="rotate(-0 128.262677 65.194888)">N</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="138.250709" y="65.194888" transform="rotate(-0 138.250709 65.194888)">T</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="147.51874" y="65.194888" transform="rotate(-0 147.51874 65.194888)">I</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="154.626772" y="65.194888" transform="rotate(-0 154.626772 65.194888)">F</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="163.894803" y="65.194888" transform="rotate(-0 163.894803 65.194888)">I</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6.6px; font-family: 'Helvetica'; text-anchor: start; fill: #1b3a5c" x="171.002835" y="65.194888" transform="rotate(-0 171.002835 65.194888)">C</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4b5a5a6af4">
+   <rect x="7.154646" y="12.823937" width="68.031496" height="68.031496"/>
+  </clipPath>
+ </defs>
+</svg>

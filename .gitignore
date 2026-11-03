@@ -1,0 +1,66 @@
+# ---------------------------------------------------------------------------
+# NeoFlux .gitignore
+# ---------------------------------------------------------------------------
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# --- Testing / coverage ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# --- Nextflow runtime ---
+.nextflow/
+.nextflow.log*
+work/
+timeline*.html
+report*.html
+trace*.txt
+dag*.html
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Pipeline outputs (regenerate with scripts/run_demo.py or Nextflow) ---
+results/
+test_results/
+demo_results/
+demo_full/
+pvacseq_results/
+
+# --- Reference data (downloaded, not tracked) ---
+resources/genome/*.fa
+resources/genome/*.gtf
+resources/indexes/*
+resources/vep/*
+resources/*.tar.gz
+
+# --- Large / private input data (NEVER commit patient or bulk data) ---
+# IEDB training export and derived training table
+tcell_full*.tsv
+training_iedb.tsv
+# Real patient / cohort data and results
+real_data/
+real_maf/
+real_results/
+# Bulk archives
+*.tar
+*.tar.tar
+*.tar.gz
+*.bam.bai
+
+# --- Trained model artifacts (demo model regenerates via `make train-demo`) ---
+models/demo_model.pkl

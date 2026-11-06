@@ -152,13 +152,6 @@ models/               Trained ensemble + validation metrics
 docs/                 Abstract, figures, binding results, logo
 ```
 
-## Citation
-
-If you use NeoFlux, please cite:
-
-> Sharma S. *NeoFlux: integrating non-canonical neoantigens, antigen processing,
-> and immune escape in a unified pipeline.* SITC 2026.
-
 ## License
 
 Released under the [MIT License](LICENSE).
